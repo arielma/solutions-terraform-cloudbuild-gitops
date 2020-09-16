@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="ariel-terraform-project"
